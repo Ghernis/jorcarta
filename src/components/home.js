@@ -16,7 +16,7 @@ const Home=()=>{
         )
             .then((r)=>r.json())
             .then((r)=>{
-                const pick=generateRandomInteger(r.length)
+                const pick=generateRandomInteger(r.length)-1
                 const inc=r.filter(d=>{
                     return r[pick].Numeric!=d.numeric
                 })
