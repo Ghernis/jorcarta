@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jorcarta/static/css/main.74974159.css",
-    "main.js": "/jorcarta/static/js/main.869ffd52.js",
+    "main.js": "/jorcarta/static/js/main.5f0d1aaa.js",
     "static/js/787.4e32d229.chunk.js": "/jorcarta/static/js/787.4e32d229.chunk.js",
     "index.html": "/jorcarta/index.html",
     "main.74974159.css.map": "/jorcarta/static/css/main.74974159.css.map",
-    "main.869ffd52.js.map": "/jorcarta/static/js/main.869ffd52.js.map",
+    "main.5f0d1aaa.js.map": "/jorcarta/static/js/main.5f0d1aaa.js.map",
     "787.4e32d229.chunk.js.map": "/jorcarta/static/js/787.4e32d229.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74974159.css",
-    "static/js/main.869ffd52.js"
+    "static/js/main.5f0d1aaa.js"
   ]
 }
