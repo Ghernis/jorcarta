@@ -25,7 +25,7 @@ const Home=()=>{
                 switch(cor){
                     case 1:
                         aux=[
-                            r[pick-1],
+                            r[pick],
                             inc[generateRandomInteger(inc.length)],
                             inc[generateRandomInteger(inc.length)],
                         ]
